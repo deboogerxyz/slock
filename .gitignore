@@ -1,0 +1,6 @@
+.gitignore
+*.orig
+*.rej
+slock
+slock.o
+explicit_bzero.o
